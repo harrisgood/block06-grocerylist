@@ -1,0 +1,17 @@
+.category{
+  text-align: center;
+  width: 650px;
+  border-radius: 20px;
+  background-color: tomato;
+  padding: 10px;
+  margin: 20px;
+}
+
+.listBackground{
+  text-align: center;
+  width: 150px;
+  background-color: orange;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 20px ;
+}
